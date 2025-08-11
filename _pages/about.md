@@ -26,7 +26,7 @@ Honors and Awards
 
 Contact
 ======
-Feel free to find me by :)
+:) Feel free to find me by
 - Email: kexinyuan@link.cuhk.edu.hk
 - Phone: 3943 3048
 - Address: G22, Lady Shaw Building, CUHK
