@@ -13,6 +13,7 @@ Academic background
 ======
 - Ph.D. in Statistics (Expected 2029), CUHK ([Supervisor: Prof. Dai Ben](https://www.bendai.org/))
 - B.Sc. in Statistics (First Class Honors), CUHK
+  - Minor in French
 
 
 Honors and Awards
