@@ -22,11 +22,11 @@ repository               : "kexin-yuan/kexin-yuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kexin.png"
   name             : "Kexin Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Statistics"
-  location         : "The Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "kexinyuan@link.cuhk.edu.hk" 
