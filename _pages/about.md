@@ -14,3 +14,9 @@ Academic background
 - Ph.D. in Statistics (Expected 2029), CUHK ([Supervisor: Prof. Dai Ben](https://www.bendai.org/))
 - B.Sc. in Statistics (First Class Honors), CUHK
 
+
+Feel free to contact me :)
+======
+- Email: kexinyuan@link.cuhk.edu.hk
+- Phone: 3943 3048
+- Address: G22, Lady Shaw Building, CUHK
