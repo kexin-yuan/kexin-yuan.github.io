@@ -12,7 +12,7 @@ I am currently a Ph.D. student in [Department of Statistics](https://www.sta.cuh
 Academic background
 ======
 For those users that need more advanced functionality, the template also supports the following popular tools:
-- Ph.D. in Statistics (Expected 2029), CUHK [Supervisor: Prof. Dai Ben](https://www.bendai.org/)
+- Ph.D. in Statistics (Expected 2029), CUHK ([Supervisor: Prof. Dai Ben](https://www.bendai.org/))
 - B.Sc. in Statistics (First Class Honors), CUHK
 
 
