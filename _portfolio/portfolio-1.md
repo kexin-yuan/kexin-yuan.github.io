@@ -1,6 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Contact"
+excerpt: "Contact info"
 collection: portfolio
 ---
 
+Feel free to contact me :)
+======
+- Email: kexinyuan@link.cuhk.edu.hk
+- Phone: 3943 3048
+- Address: G22, Lady Shaw Building, CUHK
